@@ -373,7 +373,6 @@ config MSM_XPU_ERR_NONFATAL
 	bool "Configure XPU violations as non-fatal errors"
 	help
 	 Select if XPU violations have to be configured as non-fatal errors.
-
 endchoice
 
 endif
